@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69a22650-28bd-4a10-b59c-bcdb43f83a22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XWBTZkG63YDoLRsNIPfqw8ORyI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a22650-28bd-4a10-b59c-bcdb43f83a22" name="Default Changelist" comment="" />
+      <created>1581151979390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581151979390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="264" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581156779274">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="543" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1581156779274" />
+    <state width="1286" height="166" key="GridCell.Tab.0.bottom" timestamp="1581153432519">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1286" height="166" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1581153432519" />
+    <state width="1286" height="166" key="GridCell.Tab.0.center" timestamp="1581153432519">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1286" height="166" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1581153432519" />
+    <state width="1286" height="166" key="GridCell.Tab.0.left" timestamp="1581153432508">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1286" height="166" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1581153432508" />
+    <state width="1286" height="166" key="GridCell.Tab.0.right" timestamp="1581153432519">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1286" height="166" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1581153432519" />
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581152138974">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1581152138974" />
+  </component>
+</project>
